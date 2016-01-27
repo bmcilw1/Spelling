@@ -32,16 +32,16 @@ Large dataset
 Sample
 
 
-Input 
-4
-hi
-yes
-foo  bar
-hello world
+Input<br>
+4<br>
+hi<br>
+yes<br>
+foo  bar<br>
+hello world<br>
 
-Output 
-Case #1: 44 444
-Case #2: 999337777
-Case #3: 333666 6660 022 2777
-Case #4: 4433555 555666096667775553
+Output <br>
+Case #1: 44 444<br>
+Case #2: 999337777<br>
+Case #3: 333666 6660 022 2777<br>
+Case #4: 4433555 555666096667775553<br>
 
